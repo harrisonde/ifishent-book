@@ -1,0 +1,2 @@
+# Stand-up
+I'm into development methodologies, it is only fitting the daily team-meeting be applied to my project. The goal of "stand-up" is to track my progress by describing what was accomplished over last 24 hours and what I plan to accomplish in the next 24 hours. 
