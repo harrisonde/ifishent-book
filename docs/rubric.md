@@ -1,0 +1,2 @@
+# Rubric
+I have developed a grading rubric to be associated with my deliverables. [Read the full rubric in Google Docs](https://docs.google.com/a/harvard.edu/spreadsheets/d/11OKABNhLfShncten8gt8MvjCtQBqizwU8dBvgBxyV2g/edit?usp=sharing)

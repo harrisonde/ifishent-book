@@ -1,0 +1,10 @@
+_book/*
+.DS_Store*
+Thumbs.db
+node_modules
+.monitor
+bower_components
+public/src/components/*
+*.sublime-*
+.idea
+.vscode

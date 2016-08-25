@@ -1,4 +1,4 @@
-# User Personas
+# Proposal
 ## Improve employee productivity by allocating time to individual tasks and prompting users when to take necessary breaks. 
 The American business culture expects and rewards long hours at work. Overworking leads to numerous health issues and work inefficiencies. This application will minimize overworking by creating a fixed time period to complete a specific task. Tasks entered into the application will be named and recorded. The larger issues solved by the software are:
  - Increasing positive productivity habits
