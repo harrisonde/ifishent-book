@@ -1,0 +1,8 @@
+{
+  "name":"ifishent-book",
+  "title":"ifishent-book",
+  "author":"William DeStefano",
+  "language":"english",
+  "direction":"rtl",
+  "gitbook":"~3.2.0" 
+}
