@@ -2,6 +2,7 @@
 
 * [Blog](docs/README.md)
     * [Progress](blog/progress.md)
+    * [Milestone 1 Blockers](blog/milestone-1-blockers.md)    
 * [Stand Up](stand-up/README.md)
     * [August 24, 2016](stand-up/august-24-2016.md)
     * [August 25, 2016](stand-up/august-25-2016.md)
@@ -10,6 +11,8 @@
     * [August 28, 2016](stand-up/august-28-2016.md)
     * [August 29, 2016](stand-up/august-29-2016.md)
     * [August 30, 2016](stand-up/august-30-2016.md)
+    * [August 31, 2016](stand-up/august-31-2016.md)
+    * [September 4, 2016](stand-up/september-4-2016.md)
 * [Docs](docs/README.md)
     * [Milestones](docs/milestones.md)
     * [Proposal](docs/proposal.md)
