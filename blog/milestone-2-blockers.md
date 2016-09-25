@@ -14,7 +14,9 @@ One approach might be creating two email templates for each gender. I like this 
 2. Time block count
 3. Task touched in the last 24 hours
 4. Time spent on each task
-5. Suggest activities to do when taking a break
+5. Suggestions 
+  6. More time bewteen time blocks
+  7. Activities to do when taking a break
  
  
   
