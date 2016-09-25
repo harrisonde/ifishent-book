@@ -4,6 +4,7 @@
 * [Blog](docs/README.md)
    * [Progress](blog/progress.md)
    * [Milestone 1 Blockers](blog/milestone-1-blockers.md)
+   * [Milestone 2 Blockers](blog/milestone-2-blockers.md)
 * [Stand Up](stand-up/README.md)
    * [August 24, 2016](stand-up/august-24-2016.md)
    * [August 25, 2016](stand-up/august-25-2016.md)
