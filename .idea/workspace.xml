@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4816bfa-449d-4b58-ab45-fbe9e347a07d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stand-up/sept-10-2016.md" afterPath="$PROJECT_DIR$/stand-up/sept-10-2016.md" />
     </list>
     <ignored path="ifishent-book.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,12 +71,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sept-24-2016.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sept-24-2016.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stand-up/sept-24-2016.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="120">
                 <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sept-17-2016.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stand-up/sept-17-2016.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,12 +119,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -142,10 +156,11 @@
         <option value="$PROJECT_DIR$/stand-up/sept-8-2016.md" />
         <option value="$PROJECT_DIR$/stand-up/sept-9-2016.md" />
         <option value="$PROJECT_DIR$/stand-up/sept-10-2016.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/stand-up/sept-14-2016.md" />
         <option value="$PROJECT_DIR$/stand-up/sept-15-2016.md" />
         <option value="$PROJECT_DIR$/stand-up/sept-24-2016.md" />
+        <option value="$PROJECT_DIR$/stand-up/sept-17-2016.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -361,12 +376,12 @@
       <workItem from="1473362075170" duration="1181000" />
       <workItem from="1473512747907" duration="2000" />
       <workItem from="1473512830014" duration="1378000" />
-      <workItem from="1474767514119" duration="536000" />
+      <workItem from="1474767514119" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10124000" />
+    <option name="totallyTimeSpent" value="10292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -748,20 +763,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stand-up/sept-14-2016.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -795,6 +796,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
             <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stand-up/sept-17-2016.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />

@@ -19,6 +19,7 @@
     * [September 10, 2016](stand-up/sept-10-2016.md)
     * [September 14, 2016](stand-up/sept-14-2016.md)
     * [September 15, 2016](stand-up/sept-15-2016.md)
+    * [September 17, 2016](stand-up/sept-17-2016.md)
     * [September 24, 2016](stand-up/sept-24-2016.md)
 * [Docs](docs/README.md)
     * [Milestones](docs/milestones.md)
