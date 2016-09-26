@@ -15,9 +15,10 @@ One approach might be creating two email templates for each gender. I like this 
 3. Task touched in the last 24 hours
 4. Time spent on each task
 5. Suggestions 
-  6. More time bewteen time blocks
+  6. More time between time blocks
   7. Activities to do when taking a break
  
- 
+ ... and this is the result:
+ ![Email Template](../img/email-template.png)
   
   
