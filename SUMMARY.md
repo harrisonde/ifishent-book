@@ -24,6 +24,7 @@
    * [September 17, 2016](stand-up/sept-17-2016.md)
    * [September 24, 2016](stand-up/sept-24-2016.md)
 * [Docs](docs/README.md)
+    * * [Database Design](docs/database.md)
     * [Milestones](docs/milestones.md)
     * [Proposal](docs/proposal.md)
     * [Rubric](docs/rubric.md)
