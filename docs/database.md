@@ -1,7 +1,7 @@
 #Database Design
 The following depicts relationships that may exist with the application API. Relationship between tables are established by foreign keys (fk). Auto incremented keys are indicated by "AI." 
 
-## Models
+## SQL Tables
 
 | tasks |  | |
 | -- | -- | -- |
