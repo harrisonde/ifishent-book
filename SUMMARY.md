@@ -23,6 +23,7 @@
    * [September 15, 2016](stand-up/sept-15-2016.md)
    * [September 17, 2016](stand-up/sept-17-2016.md)
    * [September 24, 2016](stand-up/sept-24-2016.md)
+   * [September 29, 2016](stand-up/sept-29-2016.md)
 * [Docs](docs/README.md)
     * [Database Design](docs/database.md)
     * [Milestones](docs/milestones.md)
