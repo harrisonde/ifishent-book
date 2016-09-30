@@ -13,7 +13,7 @@ The following depicts relationships that may exist with the application API. Rel
 |  | DATETIME |**updated** |
 |  | VARCHAR | **user_id** |
 |  | DATETIME | **deleated_at** |
-|  | BOOL | **started** |
+|  | BOOL | **status** |
 |  | DATETIME | **due_date** |
 
 | timers |  | |
