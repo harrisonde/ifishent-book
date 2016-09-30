@@ -6,7 +6,7 @@ The following depicts relationships that may exist with the application API. Rel
 | tasks |  | |
 | -- | -- | -- |
 | AI, PK | INT | **id** |
-| AI, PK | VARCHAR | **uuid** |
+|  | VARCHAR | **uuid** |
 |  | VARCHAR | **name** |
 |  | FLOAT | **time_estimate** |
 |  | DATETIME | **created_at** |
