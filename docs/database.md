@@ -6,25 +6,22 @@ The following depicts relationships that may exist with the application API. Rel
 | tasks |  | |
 | -- | -- | -- |
 | AI, PK | INT | **id** |
-|  | VARCHAR | **uuid** |
 |  | VARCHAR | **name** |
 |  | FLOAT | **time_estimate** |
-|  | DATETIME | **created_at** |
-|  | DATETIME |**updated** |
-|  | VARCHAR | **user_id** |
-|  | DATETIME | **deleated_at** |
+|  FK | VARCHAR | **user_id** |
 |  | BOOL | **status** |
 |  | DATETIME | **due_date** |
+|  | DATETIME | **created_at** |
+|  | DATETIME | **deleated_at** |
+|  | DATETIME |**updated_at** |
 
 | timers |  | |
 | -- | -- | -- |
 | AI, PK | INT | **id** |
-|  | VARCHAR | **uuid** |
 | | BOOL | **track** |
+| | DATETIME | **expiry** |
 | | DATETIME | **created_at** |
 | | DATETIME | **updated_at** |
-| | DATETIME | **expiry** |
-| | BOOL | **enabled** |
 
 | users |  | |
 | -- | -- | -- |
