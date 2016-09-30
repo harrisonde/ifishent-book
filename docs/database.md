@@ -6,7 +6,7 @@ The following depicts relationships that may exist with the application API. Rel
 | tasks |  | |
 | -- | -- | -- |
 | AI, PK | INT | **id** |
-|  | VARCHAR | **uuid** |
+| AI, PK | VARCHAR | **uuid** |
 |  | VARCHAR | **name** |
 |  | FLOAT | **time_estimate** |
 |  | DATETIME | **created_at** |
@@ -28,8 +28,7 @@ The following depicts relationships that may exist with the application API. Rel
 
 | users |  | |
 | -- | -- | -- |
-| AI, PK | INT | **id** |
-|  | VARCHAR | **uuid** |
+| PK | TEXT | **uuid** |
 | | VARCHAR | **name** |
 | |  VARCHAR | **email** |
 | |  VARCHAR | **password** |
@@ -42,3 +41,11 @@ The following depicts relationships that may exist with the application API. Rel
 | |  VARCHAR | **email** |
 | |  VARCHAR | **token** |
 | |  DATETIME | **created_at** |
+
+| audit |  | |
+| -- | -- | -- |
+| AI, PK | INT | **id** |
+| |  DATETIME | **created_at** |
+| FK | VARCHAR | **user_uuid** |
+||TEXT | **event_type**|
+||TEXT | **event_uuid**|
