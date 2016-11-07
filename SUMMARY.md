@@ -30,6 +30,8 @@
    * [October 12, 2016](stand-up/oct-12-2016.md) 
    * [October 16, 2016](stand-up/oct-16-2016.md) 
    * [October 22, 2016](stand-up/oct-22-2016.md) 
+   * [October 30, 2016](stand-up/oct-30-2016.md)
+   * [November 6, 2016](stand-up/nov-6-2016.md) 
 * [Docs](docs/README.md)
     * [Database Design](docs/database.md)
     * [Milestones](docs/milestones.md)
