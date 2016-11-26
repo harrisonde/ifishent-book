@@ -1,3 +1,5 @@
+![](icon@2x.png)
+
 # Preface
 A running track record about my software development expereience during the fall semester. In the pages of this book, information related to project, proposal, deliverables, slides for presentation, video clips regarding progress made/ deliverables. 
 
