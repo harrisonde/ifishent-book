@@ -35,6 +35,8 @@
    * [November 10, 2016](stand-up/nov-10-2016.md)
    * [November 12, 2016](stand-up/nov-12-2016.md)
    * [November 15, 2016](stand-up/nov-15-2016.md)
+   * [November 16, 2016](stand-up/nov-16-2016.md)
+   * [November 22, 2016](stand-up/nov-22-2016.md)
    * [November 23, 2016](stand-up/nov-23-2016.md)
 * [Docs](docs/README.md)
     * [Database Design](docs/database.md)
